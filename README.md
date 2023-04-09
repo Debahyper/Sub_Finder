@@ -9,15 +9,19 @@ Easy SubDomain Finder tool
 ***Installation***
 -----------------------------------------------
 
-git clone https://github.com/Debahyper/Sub_Finder.git
-cd Sub_Finder
+git clone https://github.com/Debahyper/Sub_Finder.git  
+
+cd Sub_Finder  
+
 python3 Sub_Finder.py
 
 ****This Tool tested on****
 ---------------------------------------------------
 
-1.Kali Linux
-2.Termex
+1.Kali Linux  
+
+2.Termex  
+
 3.Ubuntu
 
 
